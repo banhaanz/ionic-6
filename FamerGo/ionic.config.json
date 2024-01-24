@@ -1,0 +1,12 @@
+{
+  "defaultProject": "farmerGo",
+  "projects": {
+    "farmerGo": {
+      "name": "farmerGo",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular"
+    }
+  }
+}
